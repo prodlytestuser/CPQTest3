@@ -1,5 +1,5 @@
 "Guid","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__TargetObject__c"
-0082dc7c-dd01-4c95-9db5-4204e6626315,Billing Frequency Approval,false,"#N/A",All,"#N/A",On Initialization;On Calculate,20.0,"#N/A",Calculator
+0082dc7c-dd01-4c95-9db5-4204e6626315,Billing Frequency Approval Test,false,"#N/A",All,"#N/A",On Initialization;On Calculate,20.0,"#N/A",Calculator
 04ffc04b-2f79-4de7-b803-cd4a79e3d61b,Auto Renewal Uplift of 3%,false,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A",Calculator
 0c838e13-a1b3-4e57-8b2b-cab5f406d15b,Set VirusScan Device Count,false,111 AND (222 OR 333 OR 444),Custom,Save,"#N/A",1.0,"#N/A",Configurator
 0ea87d40-b980-4ad5-ad69-4380ba6a073c,Lookup Approval Level 1 [Discount],false,"#N/A",All,"#N/A",On Initialization,50.0,Approval_Threshold__c,Calculator
